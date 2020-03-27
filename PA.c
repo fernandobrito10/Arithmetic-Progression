@@ -1,4 +1,4 @@
-/*POR FERNANDO BRITO - BY FERNANDO BRITO*/
+/* POR FERNANDO BRITO - BY FERNANDO BRITO */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
